@@ -84,23 +84,9 @@ class="anchor"></span></span>
 **Teilnahme am Open-Source-Project für das Holacracy-System:**
 [***github.com/holacracyone/Holacracy-Constitution***](https://github.com/holacracyone/Holacracy-Constitution)
 
-<span id="_Toc438228034" class="anchor"><span id="_Toc438284456"
-class="anchor"></span></span>**Weitere Informationen oder Support zum
-Holacracy System:** [**holacracy.org**](http://holacracy.org/)
-
-<span id="_Toc438228035" class="anchor"><span id="_Toc438284457"
-class="anchor"></span></span>**Die neueste Version dieses Dokuments
-finden Sie im Internet:**
-[**holacracy.org/constitution**](http://holacracy.org/constitution)
-
 <span id="_Toc438228036" class="anchor"><span id="_Toc438284458"
 class="anchor"></span></span>**Holacracy ist eine Marke von
 HolacracyOne, LLC**
-
-<span id="_Toc438284459" class="anchor"></span>**Für die Übersetzung
-verantwortlich:**
-
-[**www.dwarfsandgiants.org**](http://www.dwarfsandgiants.org)
 
 **  
 **
@@ -146,7 +132,7 @@ Angelegenheiten der Inkraftsetzung**
 
 Dieser Artikel behandelt den Übergang vom Organisationssystem vor
 Holacracy hin zum Betrieb unter der Verfassung und liefert Regelungen
-für die Übernahme von Holacracy im Rahmen einer Board-Struktur mit einer
+für die Übernahme von Holacracy im Rahmen einer Board-Struktur mit einer
 Gruppe Repräsentativer anstelle eines einzelnen Lead Links.
 
 <span id="_Toc438284468" class="anchor"></span>**PRÄAMBEL**
